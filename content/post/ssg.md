@@ -1,7 +1,7 @@
 ---
 title: "Alasan Pindah ke Generator Site Stastic (SSG)"
 slug: pindah-ke-ssg
-date: 2025-12-26T08:10:41+08:00
+date: 2025-12-28T08:10:41+08:00
 draft: false
 
 tags:
