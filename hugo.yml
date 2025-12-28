@@ -7,14 +7,14 @@ services:
   # googleAnalytics:
   #   ID: UA-80537197-1
   disqus:
-    shortname: sudarmanto
+    shortname: masdarblogs
 
 permalinks:
   page: '/:slug/'
 
 params:
   author: Sudar
-  email: web@ardianta.com
+  email: support@sudarblogger.com
   description: 'Hello, saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/sudarcode
