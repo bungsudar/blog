@@ -5,6 +5,9 @@ date: 2023-01-04T08:54:38+08:00
 draft: false
 
 tags:
+    - Tuban
+    - Pantai Kelapa
+    - Travelling
 
 image: "/img/travis/IMG_20230101_110044.jpg"
 description: "Liburan Tahun Baru Coba ke Pantai Kelapa Tuban"
