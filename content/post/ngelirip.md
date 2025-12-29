@@ -26,7 +26,9 @@ Untuk kalian dari lamongan selatan seperti ngimbang dan sukorame lebih baik kali
 
 Saya dari sini berangkat jam 06.30 dan sampai sana pun sampai jam 08.30 karena perjalanan nya dari lamongan ke area Air Terjun Putri Nglirip adalah 1 jam 40 menit. 
 
-Harga Tiket Masuk Air Terjun Putri Ngelirip
+## Harga Tiket Masuk Air Terjun Putri Ngelirip
+
+![Air Terjun Ngelirip](/img/travis/IMG_20230930_090939.jpg)
 
 Apakah tiket masuk air terjun putri nglirip ini mahal? Tentu tidak Air Terjun Putr Nglirip ini hanya 8 ribu untuk anak - anak hanya 3 ribu saja. 
 
@@ -34,9 +36,13 @@ Sedangkan untuk parkir nya sendiri hanya bayar 5 ribu saja persepeda motor nya. 
 
 ## Air terjun ngelirip tuban
 
+![Air Terjun Ngelirip](/img/travis/IMG_20230930_090933.jpg)
+
 Kalau di total semua itu 15 ribu perorang sudahlah cukuplah, jadi kalau mau kesana lebih baik berdua atau rombongan. 
 
 ## Fasilitas Air Terjun Putri Ngelirip Tuban
+
+![Air Terjun Ngelirip](/img/travis/IMG_20230930_090929.jpg)
 
 Apabila kalian sudah membeli tiket masuk disana maka akan di kasih vocher Wifi yang mana bisa menggunakan nya pada saat di Air Terjun Putri Nglirip ini. 
 
@@ -58,7 +64,7 @@ Karena pasangan kedua ini tidak disetujui oleh kedua orang tua nya maka ayah men
 
 Karena gadis itu tidak percaya kalau sang lelaki itu telah tiada maka gadis tersebut memilih untuk semedi di dalam goa yang ada di area Air Terjun Putri Nglirip ini.
 
-
+![Air Terjun Ngelirip](/img/travis/IMG_20230930_092059.jpg) 
 
 Gadis ini bersemedi hingga akhir khayat nya oleh karena ini banyak yang mengtakan kalau arwah sang gadis di air terjun tersebut membawa kutukan disekitar air terjun nglirip yang mana warga sekitar menyebut nya Putri Nglirip.
 
@@ -66,7 +72,7 @@ Itulah cerita rakyat yang saya rangkum dari beberapa sumber karena saya sendiri 
 
 Apabila kalian ingin tahun baruan ke tempat ini sangat lah pas karena tempatnya ini sepi dan tenang
 
-Akhir Kata
+## Akhir Kata
 
 Itulah sedikit cerita saya Kluyuran di Tuban : Wisata Air Terjun Putri Ngelirip, apabila ingin bertanya bisa langsung di kolom komentar yang ada di bawah gaes.
 
