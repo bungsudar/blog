@@ -1,9 +1,6 @@
 ---
 title: "Pengalaman Menjadi Blogger"
 slug: pengalaman
-aliases:
-	- /p/berbagi-pengalaman-ngeblog-menggunakan.html
-	- /pengalaman
 date: 2025-12-28T07:10:57+08:00
 draft: false
 
