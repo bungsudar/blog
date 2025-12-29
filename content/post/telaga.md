@@ -1,4 +1,14 @@
+---
+title: "Pantai Telaga Tuban Yang Viral di Tiktok"
+slug: pantai-telaga
+date: 2024-04-11T13:00:38+08:00
+draft: false
 
+tags:
+
+image: "/img/travis/IMG_20240411_133601.jpg"
+description: "Penasaran Dengan Pantai Telaga Tuban"
+---
 
 Setelah dari pantai remen tuban akhirnya saya lanjut lagi ke pantai yang selanjut nya bernama Pantai Dermaga yang mana pantai tersebut sempat viral di tiktok dan membuat saya penasaran juga.
 
