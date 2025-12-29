@@ -15,17 +15,17 @@ description: "Pengalaman ke bromo dari lamongan via jalur malang"
 ---
 
 Dari tahun 2022 saya pribadi ingin sekali ke Gunung Bromo yang mana itu hanyalah wacana, alasan karena ingin kesana karena ingin melihat keindahan gunung bromo dari dekat dan ingin merasakan betapa dingin nya di gunung bromo ini. 
-
+![bromo semeru](/img/travis/IMG_20240929_082555_NR.jpg)
 Karena bromo lumayan jauh dari Lamongan tentu ini membuat saya berfikir dua kali untuk kesana ditambah lagi biaya nya juga mahal kisaran 500 ribu lah apabila ingin kesana. 
 
 Bromo Tengger Semeru ini juga pada waktu itu mengalami kebakaran hebat hingga viral tentu ini membuat saya sedikit kecewa karena ingin kesana malah ada musibah. 
 
 ## Bromo 29 September 2024
-
+![bromo semeru](/img/travis/IMG-20240929-WA0006.jpg)
 Alhamdulillah pada tanggal 29 september 2024 saya bisa kebromo yang mana dua tahun yang lalu hanyalah sebuah wacana tapi pada tahun ini bisa terlaksana itupun dengan biaya yang menurut saya sangat murah juga. 
 
 Berapa biaya nya? Nanti dulu saya kasih tau kepada kalian oke.
-
+![Bromo semeru](/img/travis/IMG_20240929_081025_NR.jpg)
 Berangkat malam pada tanggal 28 september dimana saya berangkat dari sini sekitar jam 11 malam, karena berangkat nya malam jadi agak santai karena aman juga dari polisi hahaha. 
 
 Kami berempat yaitu saya dan teman saya, dan lagi tema nya teman saya yang berasal dari kabuh dua orang. 
@@ -39,7 +39,7 @@ Sampai di malang sekitar jam 1 pagi akhir nya memutuskan untuk ngopi dulu sambil
 Karena tujuan ke penanjakan bromo jadi jalan lumayan menanjak dan landai wajar aja kalau sepeda metik atau sepeda yang tidak fit dilarang disana. 
 
 ## Harga Tiket Masuk Gunung Bromo Tengger
-
+![bromo](/img/travis/IMG_20240929_082942_NR.jpg)
 Karena menurut informasi kalau tiket masuk bromo itu 30 ribu per orang jadi aman aja tetapi setelah sampai sana akhir nya tiket masuk + parkir itu 40 ribuan, jadi kalau ber empat sekitar 160 ribuan lah karena tidak mau antri sekaligus tidak mau daftar online juga jadi mending bayar segitu lah. 
 
 Sebelum ke lokasi loket kami sempat di hadang dimana suruh membeli sarung tangan dengan harga lumayan yaitu per pasang 40 ribu itupun kaos tangan nya pun sangatlah tipis banget. 
@@ -57,7 +57,7 @@ Dalam perjalan kami juga ketemu wisatawan dari kudus yang mana jauh dari sana in
 Belum sempat kenalan juga karena keburu siang akhirnya memutuskan untuk pergi ke lautan pasir yang mana wajib kalau ke bromo tidak kesana.
 
 ## Badai Pasir di Lautan Pasir Bromo
-
+![Gunung Bromo](/img/travis/IMG_20240930_022859_316.webp)
 Karena kesana pas musim kemarau wajar aja kalau di bromo ada badai pasir disaran kan jika ingin kesana harus memakai kacamata atau masker buat jaga - jaga dan supaya mata tidak lah perih juga.
 
 Ditambah lagi lautan pasir ini juga berdebu jadi benar - benar harus memakai kacama atau masker, dilautan pasir bromo ini sangatlah luas dimana jika ingin menikmati seluruh wisata di bromo kalian harus muter seperti bukit teletubis, dan masih banyak lagi.
