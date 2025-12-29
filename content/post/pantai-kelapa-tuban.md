@@ -6,7 +6,7 @@ draft: false
 
 tags:
 
-image: "/img/travis/IMG_20230101_101241.jpg"
+image: "/img/travis/IMG_20230101_110044.jpg"
 description: "Liburan Tahun Baru Coba ke Pantai Kelapa Tuban"
 ---
 
@@ -18,7 +18,7 @@ Karena momen nya pas tahun baru jadi ya disempatkan untuk keluar karena sudah la
 
 ## Mulai Berangkat Jam 8 Pagi
 
-![Pantai Kelapa Tuban](/img/travis/IMG_20230101_101241.jpg)
+![Pantai Kelapa Tuban](/img/travis/IMG_20230101_110044.jpg)
 
 Karena pantai kelapa sangat jauh dari tempat saya jadi agar tidak kesiangan akhirnya berangkatlah kami pagi - pagi yaitu jam 8 pagi. Kami menggunakan sepeda motor untuk kesana ya karena hanya berlima saja karena mas Eko ajak anak dan istri nya. 
 
