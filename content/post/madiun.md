@@ -1,5 +1,5 @@
 ---
-title: "Berkunjung ke Madiun"
+title: "Berkunjung ke Padepokan SH Terate Madiun"
 slug: padepokan-psht-madiun
 date: 2023-11-26T11:54:38+08:00
 draft: false
