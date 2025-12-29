@@ -15,21 +15,17 @@ Locafore"
 
 Setelah dari Terakota Caffe akhir nya melanjutkan ke Babat di mana disana juga ada caffe yang kekinian yang belum banyak orang yang tau juga sih yaitu nama caffe nya adalah Locafore Cafe and Eatery tepatnya sih berada di Jl. Babat - Jombang No.16, Sumuralas, Lamongrejo, Kec. Baureno, Kabupaten Lamongan, Jawa Timur. 
 
-Locafore, Tempat Nongkrong Kekinian di Lamongan dan Instagramable
+## Locafore, Tempat Nongkrong Kekinian di Lamongan dan Instagramable
 
 Bila masih bingung cari aja keraton babat tempat Locafore Cafe ini berada di sana jadi kalian bisa ngadem dulu di cafe tersebut lalu bisa belanja juga ke Kraton Babat lamongan ini. 
 
-Locafore, Tempat Nongkrong Kekinian di Lamongan dan Instagramable
 
-Awal nya mau ke Cafe Kereta yang mana dekat dengan stasiun karena rame dan mulai banyak orang akhirnya memutuskan untuk ke tempat ini yang mana luamayan sepi. 
-
-Locafore, Tempat Nongkrong Kekinian di Lamongan dan Instagramable
+Awal nya mau ke Cafe Kereta yang mana dekat dengan stasiun karena rame dan mulai banyak orang akhirnya memutuskan untuk ke tempatini yang mana luamayan sepi. 
 
 Locafore ini juga sudah dikutip pada tribunnwes juga dimana menjadi tempat nongkrong yang ada di lamongan. 
 
 Karena disana pas sore jadi sekalian cari makan sekalian yang mana harnya itu sekitar 18 ribu - 30 ribu untuk makanan nya dan minuman nya ini haranya sekitar 7 ribu sampai 25 ribuan. 
 
-Locafore, Tempat Nongkrong Kekinian di Lamongan dan Instagramable
 
 Di Locafore ini tempatnya terbilang kecil ya karena di bawahnya juga ada tempat bengkel juga sedangkan cafe nya sendiri ini berada di atas, walaupun begitu kalian bisa memilih mau spot outdoor atau indoor di Locafore ini. 
 
