@@ -5,7 +5,7 @@ theme: ardianta
 
 services:
   # googleAnalytics:
-  #   ID: UA-80537197-1
+  #   ID: G-CD1PXK7Y6F
   disqus:
     shortname: masdarblogs
 
