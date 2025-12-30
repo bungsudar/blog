@@ -12,7 +12,7 @@ tags:
     - Probolinggo
 
 image: "/img/travis/IMG-20251124-WA0014.jpg"
-description: "Tempat Ngopi Dengan View Sunset di Ploso Jombang"
+description: "Mencoba pengalaman privat jeep ke bromo melalui jalur probolinggo yang mana jalur yang sangat indah untuk wisatawan"
 ---
 
 Bromo memang tempat yang indah untuk dikunjungi mulai dari wisatawan lokal hingga wisatawan mancanegara banyak sekali datang ke bromo, menjelang akhir tahun 2025 yang kedua kali nya berkunjung ke bromo. 
