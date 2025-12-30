@@ -11,7 +11,7 @@ tags:
     - Semeru
     - Probolinggo
 
-image: "/img/travis/IMG-20251217-WA0016.jpg"
+image: "/img/travis/IMG-20251124-WA0014.jpg"
 description: "Tempat Ngopi Dengan View Sunset di Ploso Jombang"
 ---
 
@@ -27,12 +27,16 @@ Dengan membayar 650.000 saja kalian sudah diajak keliling ke bromo sampai puas, 
 
 Jika penasaran langsung cek aja harga paketnya dibawah ini lah pakoknya murah lah. 
 
-Namun harga segitu belum termasuk tiket jadi harga tiket nya terpisah, karena berangkat hari senin jadi harga tiket nya 54 ribu ditambah bayar pemda nya 25 ribu, karena kami berempat jadi tinggal kali berapa totalnya. Belum ditambah 650 ribu tadi dan belum ditambah homestay nya semua totalnya untuk privat jeep ini sekitar 1.5 juta untuk 1 malam 2 hari karena penginapan nya memilih untuk dua kamar dengan harga perkamar 250 ribu. 
+![bromo](/img/travis/Screenshot_20251230_135710.jpg)
+
+Namun harga segitu belum termasuk tiket jadi harga tiket nya terpisah, karena berangkat hari senin jadi harga tiket nya 54 ribu ditambah bayar pemda nya 25 ribu, karena kami berempat jadi tinggal kali berapa totalnya. Belum ditambah 650 ribu tadi dan
+Belum ditambah homestay nya semua totalnya untuk privat jeep ini sekitar 1.5 juta untuk 1 malam 2 hari karena penginapan nya memilih untuk dua kamar dengan harga perkamar 250 ribu. 
 
 Jadi total kamarnya sekitar 500 ribu yang mana akan medapatkan fasilitas seperti wifi, kamar mandi, dapur, bagasi mobil, dan banyak lagi, ibarat satu rumah dipakai untuk sendiri. 
 
 ## Privat Jeep Bromo Jalur Probolinggo
 Dijemput jeep jam 3 pagi dimana untuk ke penanjakan satu yaitu  ke Seruni Point karena jika ke Penanjakan dua waktu nya tidaklah  menyukupi karena macet total sekitar jam segitu. 
+![bromo](/img/travis/IMG-20251124-WA0018.jpg)
 
 Jika kepenajakan dua ini harus berangkat sekitar jam 12 malam karena kepadatan jeep nya pun tidaklah banyak. Sampai di seruni point ini sekitar jam 4 subuh yang mana untuk menanjak ke seruni point ini membutuhkan waktu sekitar 1 jam lah. 
 ![bromo](/img/travis/IMG-20251217-WA0016.jpg)
@@ -47,7 +51,7 @@ Mumpung diatas lanjutlah ke sana karena lokasi planet bromo sendiri sangatlah de
 Setalah turun dari kawah bromo tidak lupa bawa oleh - oleh dari bromo yaitu gantungan kunci sama bunga elderwis kering dengan harga yang sangat terjangkau. 
 
 Setelah dari kawah lanjut ke pasir berisik yang mana sangatlah iconik kalau dibromo kalau tidak kesana, setalah itu lanjut ke padang savana dan bukit teletubis. 
-![bromo](/img/travis/IMG-20251124-WA0014.jpgg)
+![bromo](/img/travis/IMG-20251124-WA0014.jpg)
 Karena sudah capek akibat nanjak ke kawah bromo akhirnya memutuskan untuk pulang ke homestay. 
-
+![bromo](/img/travis/IMG-20251124-WA0014.jpg)
 Menjelang akhir tahun ke bromo yang kedua kalinya yang mana dengan suasana yang berbeda dari jalur yang berbeda pula, tahun depan kemana lagi enaknya!! 
