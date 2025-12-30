@@ -53,5 +53,5 @@ Setalah turun dari kawah bromo tidak lupa bawa oleh - oleh dari bromo yaitu gant
 Setelah dari kawah lanjut ke pasir berisik yang mana sangatlah iconik kalau dibromo kalau tidak kesana, setalah itu lanjut ke padang savana dan bukit teletubis. 
 ![bromo](/img/travis/IMG-20251124-WA0014.jpg)
 Karena sudah capek akibat nanjak ke kawah bromo akhirnya memutuskan untuk pulang ke homestay. 
-![bromo](/img/travis/IMG-20251124-WA0014.jpg)
+![bromo](/img/travis/IMG-20251124-WA0029.jpg)
 Menjelang akhir tahun ke bromo yang kedua kalinya yang mana dengan suasana yang berbeda dari jalur yang berbeda pula, tahun depan kemana lagi enaknya!! 
