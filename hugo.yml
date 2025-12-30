@@ -66,7 +66,7 @@ privacy:
     privacyEnhanced: false
 
     privacy:
-  privacy.googleAnalytics:  G-CD1PXK7Y6F
+  privacy.googleAnalytics: 
     disable: false
     respectDoNotTrack : true
   instagram:
