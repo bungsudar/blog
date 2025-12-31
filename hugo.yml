@@ -4,8 +4,9 @@ theme: ardianta
 # disqusShortname: ardianta
 
 services:
-    # googleAnalytics: G-CD1PXK7Y6F
-    #;ID: G-CD1PXK7Y6F
+  # googleAnalytics:
+    ID: G-CD1PXK7Y6F
+
   disqus:
     shortname: masdarblogs
 
