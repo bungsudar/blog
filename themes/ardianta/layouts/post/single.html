@@ -18,7 +18,7 @@
     <a href="{{ .RelPermalink }}" class="text-indigo-600 mx-1">#{{ .LinkTitle }}</a>
     {{ end }} {{ end }}
   </div>
-  <footer class="mt-16">{{ template "post/_disqus.html" . }}</footer>
+  <footer class="mt-16">{{ template "post/comments.html" . }}</footer>
 </article>
 
 {{ end }}
