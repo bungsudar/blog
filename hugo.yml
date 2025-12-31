@@ -6,6 +6,9 @@ theme: ardianta
 services:
   # googleAnalytics:
    # ID: G-CD1PXK7Y6F
+   [services]
+  [services.googleAnalytics]
+    googleAnalytics = 'G-CD1PXK7Y6F'
 
   disqus:
     shortname: masdarblogs
