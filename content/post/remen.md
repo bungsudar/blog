@@ -13,6 +13,7 @@ description: "liburan hari raya ke pantai remen tuban"
 
 Akhirnya puasa sudah berakhir dan sekrang sudah memasuki hari raya idul fitri, saya idul fitri kali ini memutuskan untuk keluar jalan - jalan yang mana karena pada tahun baru kemarin saya tidak kemana - mana jadi agenda nya yang jalan - jalan adalah saat lebaran.
 
+
 Sekali lagi saya memutuskan ke tuban karena dekat dan tidak membutuhkan banyak biaya untuk kesana. Saya ke tuban tidaklah sendiri dimana dengan ajak teman saya yang bernama wafa karena dia yang lebih mengerti jalur dari pada saya.
 
 Tujuan awal saya yaitu ke Pantai Remen Pasir Putih yang mana dulu sangatlah terkenal di tuban, bagi yang sering ke tuban tentu sudah hafal kalau tuban itu pantai nya banyak banget bahkan di seluruh panjang pantura pun kita akan tau kalau ada pantai bagus disana. 
@@ -22,7 +23,7 @@ Awalnya tujuan saya ingin ke Pantai Cemara karena kata teman ku lebih bagus dari
 ## Perjalanan 2 Jam Lebih Dari Rumah
 Berangkat dari Sukorame tempat rumah teman saya, awal berangkat nya pun sekitar siang sekitar jam 09 dari rumah dan sampai tujuan itu sekitar jam setengah 12 an. Karena jalanan macet dan ditambah lagi mampir membeli bensin serta cari map pas di kota tujuan kita kemena.
 
-![pantai remen](/img/travis/IMG_20240411_114013.jpg)
+![pantai remen](/img/travis/IMG_20240411_113959.jpg)
 
 Dari kota tuban sudah macet karena bebarengan dengan para pemudik yang pulang dan balik ke kampung halaman ditambah lagi pas di pom bensin antri nya panjang banget mungkin ada sekitar setengah jam lah antri untuk membeli bensin. 
 
@@ -48,6 +49,8 @@ Saya sendiri juga baru tau kalau pantai remen ini jauh di pelosok desa yang mana
 Saya nikmati pantai ini sekitar 1 jam disana karena tenang tidak bergitu banyak orang jadi kalau mau foto - foto jadi tidak malu. 
 
 Seperti biasa nya kalau ke tuban tidak pesen rujak orang sana kayak tidak lah seru, karena setiap di pantura ada penjual rujak.
+
+![pantai remen](/img/travis/IMG_20240411_113724.jpg)
 
 Di Pantai Remen Tuban ini walaupun banyak orang dagang juga ada banyak fasilitas seperti WC umum, Masjid, WarungMakan apabila kalian laper, dan masih banyak lagi.
 
