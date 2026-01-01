@@ -5,6 +5,11 @@ date: 2020-08-31T20:12:09+08:00
 draft: false
 
 type: post
+tag :
+    - Blogger
+    - Domain
+    - Hosting
+    - Cloudflare
 
 image: ""
 description: "menjadi blogger adalah pilihan hidupku"
