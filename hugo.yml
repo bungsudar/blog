@@ -16,6 +16,7 @@ services:
 permalinks:
   page: '/:slug/'
   post: '/:slug/'
+  project: '/tutorial/'
 
 params:
   author: Sudar
