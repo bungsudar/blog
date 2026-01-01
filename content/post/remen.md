@@ -4,7 +4,10 @@ slug: pantai-remen
 date: 2024-04-15T10:00:30+08:00
 draft: false
 
-tags:
+tags: 
+    - Tuban
+    - Wisata
+    - Pantai
 
 image: "/img/travis/IMG_20240411_113724.jpg"
 description: "liburan hari raya ke pantai remen tuban"
@@ -13,6 +16,7 @@ description: "liburan hari raya ke pantai remen tuban"
 
 Akhirnya puasa sudah berakhir dan sekrang sudah memasuki hari raya idul fitri, saya idul fitri kali ini memutuskan untuk keluar jalan - jalan yang mana karena pada tahun baru kemarin saya tidak kemana - mana jadi agenda nya yang jalan - jalan adalah saat lebaran.
 
+![pantai remen](/img/travis/IMG_20240411_113712.jpg)
 
 Sekali lagi saya memutuskan ke tuban karena dekat dan tidak membutuhkan banyak biaya untuk kesana. Saya ke tuban tidaklah sendiri dimana dengan ajak teman saya yang bernama wafa karena dia yang lebih mengerti jalur dari pada saya.
 
