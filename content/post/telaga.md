@@ -4,7 +4,7 @@ slug: pantai-telaga
 date: 2024-04-11T13:00:38+08:00
 draft: false
 
-tags: 
+tags:
     - Tuban
     - Wisata
     - Pantai
