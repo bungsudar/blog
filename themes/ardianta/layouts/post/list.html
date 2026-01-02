@@ -1,7 +1,7 @@
 {{ define  "main" }}
-<section class="py-16 px-8 md:px-0 dark:bg-black">
+<section class="py-16 px-8 md:px-0 dark">
   <hgroup class="mb-16">
-    <p class="font-bold text-center text-indigo-600 dark:text-white">Blog ✨</p>
+    <p class="font-bold text-center text-indigo-600 dark">Blog ✨</p>
     <h2 class="font-bold text-center text-2xl text-slate-700 dark:text-white">Opinion and Notes</h2>
   </hgroup>
 
@@ -16,10 +16,10 @@
             {{ .Title }}
           </a>
         </h3>
-        <p class="text-slate-600 line-clamp-3 text-sm mb-2 dark:text-white">
+        <p class="text-slate-600 line-clamp-3 text-sm mb-2 dark">
           {{ with .Description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}
         </p>
-        <p class="text-sm text-slate-400 dark:text-white">{{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read</p>
+        <p class="text-sm text-slate-400 dark">{{ .Lastmod.Format "02 Jan 2006" }} &middot; {{ .ReadingTime }} min read</p>
       </div>
       <a href="{{ .RelPermalink }}" class="col-span-1">
         <picture class="block aspect-square	border bg-slate-100 overflow-hidden rounded-xl md:rounded-3xl">
