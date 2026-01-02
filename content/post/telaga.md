@@ -4,7 +4,10 @@ slug: pantai-telaga
 date: 2024-04-11T13:00:38+08:00
 draft: false
 
-tags:
+tags: 
+    - Tuban
+    - Wisata
+    - Pantai
 
 image: "/img/travis/IMG_20240411_133601.jpg"
 description: "Penasaran Dengan Pantai Telaga Tuban"
