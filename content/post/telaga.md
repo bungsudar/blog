@@ -8,6 +8,7 @@ tags:
     - Tuban
     - Wisata
     - Pantai
+    
 
 image: "/img/travis/IMG_20240411_133601.jpg"
 description: "Penasaran Dengan Pantai Telaga Tuban"
