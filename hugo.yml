@@ -1,4 +1,4 @@
-baseurl: 'https://www.sudarblogger.web.id'
+baseurl: 'https://www.sudarblogger.com'
 title: Sudar Blogger
 theme: ardianta
 # disqusShortname: ardianta
@@ -16,12 +16,12 @@ services:
 permalinks:
   page: '/:slug/'
   post: '/:slug/'
-  project: '/tutorial/'
+  
 
 params:
   author: Sudar
   email: support@sudarblogger.com
-  description: 'Hello, saya Sudar. Blog ini belum jadi. Sabar ya...'
+  description: 'Hello, Saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/sudarcode
     linkedin: https://linkedin.com/in/ardianta
