@@ -5,7 +5,7 @@ name = "Sudar Blogger"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
 description = "Sebuah blog sederhana yang mengulas dan carita kecil perjalanan Nauval Sudarmanto"
-homepage = "https://sudarblogger.web.id"
+homepage = "https://www.sudarblogger.com"
 tags = []
 features = []
 min_version = "0.41.0"
@@ -17,6 +17,6 @@ min_version = "0.41.0"
 # If porting an existing theme
 [original]
   name = "Sudar Blogger"
-  homepage = "https://sudarblogger.web.id"
+  homepage = "https://www.sudarblogger.com"
   repo = ""
 googleAnalytics = "G-CD1PXK7Y6F"
