@@ -1,5 +1,5 @@
 ---
-title: "Sudar Blogger | Web Developer & Content Creator"
+title: "Sudar Blogger | Catatan Harian & Esai Mas Dar"
 date: 2020-08-31T20:12:09+08:00
 draft: false
 
