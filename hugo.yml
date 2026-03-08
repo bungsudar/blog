@@ -25,8 +25,9 @@ params:
   description: 'Hello, Saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/sudarcode
-    youtube: https://linkedin.com/in/ardianta
+    youtube: https://youtube.com/@sudardiary
     instagram: https://instagram.com/20.22sh
+    facebook: https://www.facebook.com/Nauval.sudarmanto
 
 frontmatter:
   date:
