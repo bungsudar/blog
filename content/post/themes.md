@@ -4,6 +4,12 @@ slug: mas-sugeng
 date: 2026-01-02T19:51:02+08:00
 draft: false
 
+tags:
+    - Blogger
+    - Template
+    - Themes
+    - Wordpress
+    
 type: post
 
 image: "/img/template-blogger/sugeng.png"
