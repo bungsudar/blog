@@ -1,5 +1,5 @@
 ---
-title: "Pengalaman Menjadi Blogger"
+title: "Pengalaman 8 Tahun Menjadi Seorang Blogger"
 slug: pengalaman
 date: 2025-12-28T07:10:57+08:00
 draft: false
@@ -14,7 +14,8 @@ Pada 2013 saya baru mengenal yang nama nya blogspot atau sekarang berubah menjad
 
 Dimana kita mau nulis, edit tema dan mencari informasi apapun di warnet dimana pada waktu perjam nya sangatlah murah yaitu 3 ribuan saja. namun di era seperti itu jika ingin mencari indormasi terbatas jadi belajar ngeblog seadanya. 
 
-Dulu ngeblog itu hanya tulis asal dan ganti template yang mana gonta ganti template, karena semakin kesini semakin berkembang dunia blogging plus alhamdulillah punya HP yang mana bisa akses google untuk belajar. 
+Dulu ngeblog itu hanya tulis asal dan ganti template yang mana gonta ganti template, karena semakin kesini semakin berkembang dunia blogging plus alhamdulillah punya HP yang mana bisa akses google untuk belajar.
+-----
 
 ## Kenapa Menggunakan Blogspot? 
 
@@ -27,6 +28,7 @@ Sebelum mengenal blogspot saya sendiri sudah mengenal wordpress yang mana saya m
 Namun jika ingin mendapatkan akses lebih maka harus premium alias menyewa hosting dan membeli domain. 
 
 Berbeda sama blogspot cukup modal domain saja kalian sudah bisa di online kan bahkan server sendiri pun disediakan oleh google. 
+-----
 
 ## Mencoba Domain Berbayar
 
@@ -35,7 +37,7 @@ Karena ada promo membuat website dengan biaya murah akhirnya saya coba untuk kon
 Akhirnya saya tertarik untuk mencoba nya, pada waktu itu saya berada di kalimantan timur merantau setelah lulus sekolah, jualan ikut paklek sambil belajar cari ilmu mengenai dunia blogging. 
 
 Karena sewa hosting dan domain bayar sendiri jadi untuk perpanjangan nya pun cukuplah mahal jadi tidak saya teruskan akhir nya blog tersebut hanya bertahan sampai setahun saja. 
-
+----
 ## Membuat Blog di Blogspot Custom Domain
 
 Pada 2016 saya sudah pulang ke jawa yang mana karena jualan sepi akhirnya pulang, sempat ngaggur beberapa bulan akhir nya dapat kerjaan di rumah makan dimana itu milik teman satu kempung. 
@@ -47,13 +49,15 @@ Karena pada saat itu belum memiliki rekening bank jadi bayar nya lewat alfamart,
 Karena sudah beli domain tapi bingung cara setting nya je blogspot akhir nya saya coba hubungi CS nya agar bisa bantu untuk setting blog tersebut. 
 
 Hanpir setengah jam chat sama CS nya agar blog bisa online di blogspot, dan akhirnya blog pun online juga. 
-Mengenal Banyak Teman
+-------
+## Mengenal Banyak Teman
 
 Selama menjadi blogger saya banyak sekali teman dari bergai daerah dan ternyata ada komunitas blogger asal lamongan yang benyak ternyata, dan saya kenal juga sama blogger jogja nama nya mas Joko nama lengkapnya Joko Yuginto yang nama banyak memberikan saran bahkan membatu saya. 
 
 Beliau bahkan sampai pinjam kan laptop kepada saya yang mana agar saya bisa ngeblog karena ngeblog pakai HP susah nya seperti apa dan sekarang masih berteman baik sampai saat ini. 
 
 Joko Yugianto ini sendiri memiliki banyak sekali blog namun yang paling aktif adalah blog Kanaljogja.id yang mana blog tersebut membahas seputar jogja, bolehlah kalian coba berkunjung ke blog nya jika ingin mengerti tentang jogja. 
+-----
 
 ## Mencoba Mendaftar Google Adsense
 
@@ -68,8 +72,13 @@ Hal yang paling membuat bahagia dalam ngeblog adalah yang mana saya dapat job nu
 
 
 Dengan artikel saja dibayar sampai 300 ribu dengan sematkan 3 backlink saja yang mengarah pada website tersebut, karena saya belum memiliki rekening maka saya tukarkan dengan masa aktif domain selama 2 tahun. 
+-----
+## Pindah ke SSG (Static Site Generator)
 
---------
+Pada akhir 2026 akhir nya memutuskan untuk pindah ke Static Site Generator yang mana di blogger sendiri sudah tidak maksimal untuk ngeblog, dimana blogger ini sendiri sudah tidak update fitur lagi, hanya saja update nya setahun sekali. 
 
-Artikel Masih lanjut dan belum bisa lanjutkan
+Ditambah lagi blogger setting SEO nya sangatlah masih jadul, berbeda kalau menggunakan Static Site Generator yang mana artikel bisa langsung di index oleh Google dan tidak harus menunggu waktu yang lama juga. 
+-----
+
+Artikel Masih lanjut dan belum bisa lanjutkan? Nantikan lanjutannya ya sobat...... 
 
