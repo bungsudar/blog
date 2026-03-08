@@ -11,7 +11,7 @@ tags:
     - Lamongan
     - Kegiatan
 
-image: "/img/about/namira12.jpg"
+image: "/img/about/namira9.jpg"
 description: "Jadwal dan Kegiatan di Masjid Namira Lamongan Selama bulan ramadan terbaru"
 ---
 Berangkat dari rumah sekitar pukul 15.00 WIB ke Masjid Namira Lamongan untuk menghadiri tausiah yang mana ingin kesana dari dulu dan baru ke terpenuhi di bulan puasa tahun ini. Seperti diketahuai kalau dimasjid Namira Lamongan ini setiap bulan puasa ada kegiatan seperti Tausiah, Buka Bersama dan Cek Kesahatan Gratis disana. 
@@ -33,8 +33,8 @@ Masjid Namira ini selalu ramai setiap hari nya karena menjadi pesinggahan orang 
 
 Nah ini dia beberapa foto kegiatan yang ada di masjid namira lamongan selama bulan ramadan 2026 :
 
-![Masjid Namira Lamongan](/img/about/namira6.jpg) 
 ![Masjid Namira Lamongan](/img/about/namira7.jpg) 
-![Masjid Namira Lamongan](/img/about/namira8.jpg)
+![Masjid Namira Lamongan](/img/about/namira8.jpg) 
 ![Masjid Namira Lamongan](/img/about/namira9.jpg)
-![Masjid Namira Lamongan](/img/about/namira10.jpg) 
+![Masjid Namira Lamongan](/img/about/namira10.jpg)
+![Masjid Namira Lamongan](/img/about/namira11.jpg) 
