@@ -1,5 +1,5 @@
 ---
-title: "Pengalaman Pertama kali Naik Gunung Penanggungan"
+title: "Pengalaman Pertama kali Naik Gunung Penanggungan Mojokerto"
 slug: penanggungan-mojokerto
 date: 2024-07-28T15:54:38+08:00
 draft: false
@@ -14,14 +14,17 @@ Pengalaman naik gunung mungkin baru pertama kali akan tetapi menjadi pengalaman 
 
 Untuk pos pendakian saya memilih Jalur Telogo Ngoro berada di Desa Wotanmas Jedong, Kecamatan Ngoro, Kabupaten Mojokerto.
 
+![Penanggungan Mojokerto](/img/about/penanggungan.jpg) 
+
 Berangkat dari rumah sekitar jam 1 pagi karena target naik ke gunung ini adalah jam 3 pagi harus mulai persiapan naik, alasan naik pada pagi hari karena menghindari dari panas saat tepat di puncak. 
 
+![Penanggungan Mojokerto](/img/about/penanggungan1.jpg) 
 Sampai disana saya dan teman toriq malakukan registrasi secara online, dimana registrasi tersebut menggunakan aplikasi yang bernama Tiket Pendakian, yang mana itu sudah syarat wajib bagi pendakian dimanapun gunung nya. 
-
+![Penanggungan Mojokerto](/img/about/penanggungan2.jpg) 
 Dalam proses registrasi ini saya kenal pendaki lain dari dari sidoarjo akan tetapi lupa namanya yaitu mendaki dengan dengan dua orang, karena kita semua awam dalam mendaki jadi ada isiden kecil yang mana kami tersesat karena salah jalur, niat nya berangkat jam tiga pagi malah molor menjadi jam 6 pagi baru mulai naik ke atas. 
 
 Insiden tersebut karena kami semua melewati jalan yang sudah di garis merah akan tetapi tetap kami trabas jadi nya nyasar entah kemana, syukur nya tim sar bisa menemukan kami dan bisa kembali di pos awal. 
-
+![Penanggungan Mojokerto](/img/about/penanggungan3.jpg) 
 Sedikit ilmu untuk kami kalau ada garis merah jangan di lewati biasa nya kalau di gunung di tandai dengan rapia merah, itu kata tim sar yang ada disana. 
 
 Setelah turun, kami dikasih tau banyak hal tentang mendaki, biar tidak tersesat lagi, karena masih pagi kami semua melanjutkan perjalanan ke puncak tanpa istirahat sedikit pun. 
