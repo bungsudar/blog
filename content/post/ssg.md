@@ -1,5 +1,5 @@
 ---
-title: "Alasan Pindah ke Generator Site Stastic (SSG)"
+title: "Alasan Pindah ke Site Stastic Generator (SSG)"
 slug: pindah-ke-ssg
 date: 2025-12-28T08:10:41+08:00
 draft: false
@@ -19,6 +19,13 @@ Setelah sekian lama menggunakan blogger sebagai tempat ngeblog akhir nya kemarin
 Beda dengan Blogger atau Wordpress dimana SSG ini memiliki banyak sekali keunggulan salah satu nya terintegrasi oleh CDN seluruh dunia atau Global. Selain itu juga di SSG ini website sangat mudah diakses tanpa harus menunggu lama, terus di SSG juga sudah punya hosting gratis yang mana ini sangatlah besar bedwith nya tidak kalah dari Google. 
 
 Di SSG ini enaknya bisa kelola secara Offline yang mana terintregrasi oleh file lokal yang ada di komputer atau PC milik kalian, jika tidak ingin ribet ya harus terintergrasi juga oleh git agar mudah untuk backup nya. 
+
+## Alasan Pindah ke SSG
+ - 1. Blogger Sudah Tidak Maksimal : Selama menggunakan blogger sudah tidak ada yang update lagi di blogger mulai dari segi UI atau UX nya hanya menambahkan beberapa fitur yang mana itu tidak menguntungkan pemilik blog dan hanya menguntungkan pihak Google itu sendiri. 
+   2. Gampang Terindex Google : Di SSG ini terintegrasi oleh Cloudflare yang mana artikel yang kalian terbitkan akan mudah muncul di mesin pencari walaupun domain atau blog kalian terbilang masih baru.
+   3. Bisa Nulis Suka - suka : Berbeda apabila menggunakan blogger kita harus mematuhi aturan di sana dan apabila melanggar tentu blog akan di take down oleh pihak google ini, beda di SSG ini yang mana bisa menulis suka - suka.
+   4. Website Lebih Cepat di Akses: Karena server cloudflare ada dimana - mana tentu blog yang di SSG ini jadi lebih gampang di akses di seluruh dunia tanpa harus optimasi ini itu seperti di blogger. Ditambah lagi di cloudflare ini bisa akses CDN global menjadikan blog lebih mudah diakses. 
+
 
 Ada kelebihan juga ada kekuranga nya menggunakan SSG ini, misalnya di SSG ini tidak diperuntukan oleh pemula karena tidak ada live editor seperti blogger atau wordpress, jadi untuk menulis ya harus mengerti coding juga. 
 
