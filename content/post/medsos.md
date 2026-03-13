@@ -8,7 +8,7 @@ tags:
     - Instagram
     - Hacker
 
-image: "/img/about/instagram.png.jpg"
+image: "/img/about/instgram.png.jpg"
 description: "Cara Pulihkan akun instgram di hack, lupa password dalam 5 menit"
 ---
 Alhamdulillah intagram pertama yang pernah saya buat akhirnya bisa kembali lagi dimana di dalam instagram tersebut banyak kenangan foto - foto lama yaitu sekitar tahun 2018 - 2021 yang mana sayang banget kalau hilang itu akun. 
