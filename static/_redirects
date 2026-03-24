@@ -1,1 +1,1 @@
-/blog/* /post/:splat
+/post/* /blog/:splat
