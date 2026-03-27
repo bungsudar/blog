@@ -10,5 +10,3 @@ description: "Sudar Blogger adalah blogger asal lamongan yang memulai ngeblog pa
 ---
 
 Blog ini adalah blog pribadi tempat mencatat segala hal yang ingin saya catat.
-Buat kamu yang tertarik mengikuti update dari blog ini, bisa berlangganan
-[RSS Feed](http://feeds.feedburner.com/ardianta)-nya atau ikuti saya di [Twitter](https://twitter.com/ardiantapargo) dan [Github](https://github.com/ardianta).
