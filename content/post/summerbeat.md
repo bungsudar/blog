@@ -18,4 +18,4 @@ Ap kalian sedang mencari tempat ngopi, dimana dengan nuansa yang berbeda semisal
 
 Di Mojokerto ada sebuah caffe yang bertema kan bali yang mana ada seperti pantai nya, ada pohon kelapa nya layak nya di pantai. 
 
-Namanya Caffe tersebut adalah Summer Beat yang ada di mojokerto, caffe ini menawarkan suasana seperti di bali. 
+Namanya Caffe tersebut adalah Summer Beat yang ada di mojokerto, caffe ini menawarkan suasana seperti di bali. Jadi kalian tidak perlu jauh - jauh ke bali untuk merasakan nuansa bali ini. 
