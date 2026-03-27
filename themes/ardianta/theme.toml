@@ -20,7 +20,3 @@ min_version = "0.41.0"
   homepage = "https://www.sudarblogger.com"
   repo = ""
 googleAnalytics = "G-CD1PXK7Y6F"
-
-[params.shareButtons]
-  size = "small"
-  networks = ["facebook", "twitter"]
