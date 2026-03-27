@@ -18,7 +18,11 @@ permalinks:
 
   
   
-  
+  shareButtons:
+  size: small
+  networks:
+    - facebook
+    - twitter
 
 params:
   author: Sudar Blogger
