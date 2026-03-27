@@ -16,14 +16,6 @@ services:
 permalinks:
   page: '/:slug/'
 
-  
-  
-  shareButtons:
-  size: small
-  networks:
-    - facebook
-    - twitter
-
 params:
   author: Sudar Blogger
   email: support@sudarblogger.com
