@@ -1,5 +1,5 @@
 ---
-title: "Deklarasi Pemilu Damai 2023 di Kota Mediun"
+title: "Deklarasi Pemilu Damai PSHT 2023 di Kota Mediun"
 slug: pemilu-damai
 date: 2023-10-15T10:02:17+08:00
 draft: false
