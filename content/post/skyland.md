@@ -1,5 +1,5 @@
 ---
-title: "Lebaran Tahun Ini ke Malang Sekylan Serta ke....."
+title: "Lebaran Tahun Ini ke Malang Sekyland Serta ke....."
 slug: malang-skyland
 date: 2026-03-28T09:44:01+08:00
 draft: false
