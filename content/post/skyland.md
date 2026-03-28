@@ -17,7 +17,7 @@ description: "Harga Tiket, Rute, Jam Buka Malang Skyland Saat Lebaran"
 Sudah lama ingin Malang dari dulu karena di Malang juga banyak sekali tempat wisata mulai dari alam dan wisata buatan tentu nya yang instagramable
 
 Malang dari lamongan sendiri terbilang sangat jauh juga sekitar 2 jam 30 menit kalau pakai motor, ditambah perjalanan ke malang jalan nya juga berkelok - kelok jadi untuk kesana motor juga harus keadaan baik. 
-![malang skyland](/img/malang/malangskyland1.jpg)
+![malang skyland](/img/malang/skyland1.jpg)
 Kalau mau ke malang juga bingung mau milih wisata yang mana karena malang itu banyak sekli tempat wisata nya bahkan hampir berdekatan pula wisatanya satu sama lain
 
 Akhir nya saya memilih untuk pergi ke Malang dan mencoba ke Malang Skyland ini. 
@@ -31,17 +31,17 @@ Sampai lokasi Malang Skyland ini sekitar jam 11.00 karena masih suasana lebaran 
 Disini saya tidak sendiri, saya ke malang skyland ini berdua bersama teman saya karena baru pertama kali ke sana jadi harus pakai map. 
 
 ## Lokasi, Tiket dan Jam Buka Malang Skyland
-![malang skyland](/img/malang/malangskyland2.jpg)
+![malang skyland](/img/malang/skyland2.jpg)
 Lokasi Malang Skyland berada di Leban, Tawangargo, Karang Ploso, Malang, Jawa Timur yang dekat dengan Kota Batu. Malang Skyland buka pukul 10.00-20.00 WIB setiap Senin-Jumat. Saat weekend, Malang Skyland buka lebih lama, yaitu pukul 09.00-21.00 WIB. 
 
 Setiap pengunjung yang ingin masuk ke Malang Skyland harus membayar tiket masuk sebesar Rp35.000 untuk orang dewasa. Sedangkan Malang Skyland tiket masuk untuk balita usia 3-6 tahun sebesar Rp15.,000 dan untuk anak-anak sebesar Rp25.000. 
 
 ## Daya Tarik Malang Skyland
-![malang skyland](/img/malang/malangskyland3.jpg)
+![malang skyland](/img/malang/skyland3.jpg)
 Setiap Wisata tentu memiliki daya tarik nya sendiri seperti halnya Malang Skyland ini, daya tarik paling dominan di Malang Skyland ini adalah kalian bisa melihat citylight kota malang dengan background gunung arjuno jadi sangat cocok untuk swafoto kalian. 
 
 Salah satu spot untuk menikmati view 360 derajat di Malang Skyland adalah Sky Bridge. Jembatan dari kaca setebal 24mm ini memiliki panjang 160 meter dan memiliki ketinggian 12 meter. 
-![malang skyland](/img/malang/malangskyland4.jpg)
+![malang skyland](/img/malang/skyland4.jpg)
 Untuk menikmati keindahan pemandangan dan Sky Bridge, kamu harus membayar tiket sebesar Rp18.000 per orang. Nantinya, kamu harus mengenakan alas kaki khusus sebelum masuk area Sky Bridge. 
 
 Di malang skyland ini juga ada ATV dan Seccoter, apabila kalian capek berkeliling bisa naik ini dengan membayar 50.000 untuk ATV nya dan Seccoter membayar 25.000 saja.
