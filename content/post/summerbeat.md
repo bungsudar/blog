@@ -28,4 +28,8 @@ Jika berkunjung kesini paling rekomendasi adalah pas sore hari yang mana sambil 
 
 Untuk harga makanan di Summer Beach ini sesuai kantong karena harga makanan disini mulai dari 25.000 rupiah hingga 50.000 rupiah dan untuk minumannya harga nya mulai 17.000 hingga 30.000 rupiah.
 ![Summer Beach](/img/mojokerto/mojokerto3.jpg)
-Caffe ini sering di datangin anak muda yang mana menawarkan sensai berbeda pada caffe pada umum nya. 
+Caffe ini sering di datangin anak muda yang mana menawarkan sensai berbeda pada caffe pada umum nya.
+
+Untuk jam buka nya Summer Beach ini pada jam 09.00 - 22.00 WIB karena kemarin kesana pas puasa jadi buka nya hanya sampai di jam 19.00 WIB. 
+
+Untuk alamatnya Jl. Kuwung, Mergelo, Meri, Kec. Magersari, Kota Mojokerto, Jawa Timur 61315 apabila bingung bisa buka aja Google Map. 
