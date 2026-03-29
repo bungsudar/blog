@@ -2,7 +2,7 @@
 title: "Petani Kode"
 slug: petanikode
 date: 2023-05-18T22:59:29+08:00
-draft: true
+draft: false
 
 type: project
 
