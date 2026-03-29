@@ -18,7 +18,7 @@ permalinks:
 
 params:
   author: Sudar Blogger
-  email: support@sudarblogger.com
+  email: admin@sudarblogger.com
   description: 'Hello, Saya Sudar. Blog ini belum jadi. Sabar ya...'
   social:
     github: https://github.com/sudarcode
