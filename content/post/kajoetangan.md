@@ -16,7 +16,7 @@ image: "/img/malang/heritage.jpg"
 description: "Harga Tiket Masuk Kampoeng Hiratage Kajoetangan Malang"
 ---
 
-Setelah dari Malang Skyland melanjutkan ke tempat wisata selanjutnya yang mana ini juga viral di media sosial, yaitu Kampoeng Hiratage Kajoetangan Malang dimana lokasi berada ditengah kota tidak jauh dari Alun - alun kota Malang ini. 
+Setelah dari  [Malang Skyland](https://www.sudarblogger.com/post/malang-skyland/)  melanjutkan ke tempat wisata selanjutnya yang mana ini juga viral di media sosial, yaitu Kampoeng Hiratage Kajoetangan Malang dimana lokasi berada ditengah kota tidak jauh dari Alun - alun kota Malang ini. 
 ![Kampoeng Hiratage Kajoetangan Malang](/img/malang/heritage2.jpg)
 Kampoeng Haritage Kajoetangan ini merupakan salah satu desa di Malang yang dijadikan tempat wisata dimana menurut informasi yang saya dapat bahwa tempat tersebut banyak sekali peninggalan belanda sekitar abad ke 13 dan masih bagus sampai saat imi.
 ![Kampoeng Hiratage Kajoetangan Malang](/img/malang/heritge3.jpg)
@@ -33,6 +33,6 @@ Kajoetangan Kampoeng terletak di Desa Kauman, Kota Malang. Pada masa penjajahan 
 
 Teori pertama adalah bahwa sebelum 1914, ada sebuah tanda lalu lintas kayu berbentuk tangan yang terletak di timur persimpangan Jalan Oro-Oro Dowo (sekarang Jalan B.S. Riadi) dan Jalan Kayutangan (sekarang Jalan Basuki Rahmat). Karena tanda tersebut terbuat dari kayu dan berbentuk tangan, jalan menuju Alun-Alun Kota Malang saat itu dinamakan Kayutangan.
 
-Kajoetangan Kampoeng adalah salah satu lingkungan tertua yang telah berubah menjadi destinasi wisata di pusat Kota Malang. Kampung wisata tematik ini, yang diresmikan oleh Pemerintah Kota Malang pada 22 April 2018, berbasis budaya dan menawarkan keaslian kampoeng bersama peninggalan sejarah, bangunan, kuliner, serta kehidupan sosial dan budaya masyarakatnya. Wilayah ini memiliki berbagai potensi daerah yang menjadi daya tariknya. Potensi Kampoeng Kayutangan dapat dipetakan dalam lima kategori: wisata bangunan bersejarah dan tua, tempat ibadah, kuliner dan kegiatan komersial, penjelajahan sungai, serta acara dan kegiatan. Sumber website ![Kajoetangan](https://kajoetanganheritagevillage.com/id) 
+Kajoetangan Kampoeng adalah salah satu lingkungan tertua yang telah berubah menjadi destinasi wisata di pusat Kota Malang. Kampung wisata tematik ini, yang diresmikan oleh Pemerintah Kota Malang pada 22 April 2018, berbasis budaya dan menawarkan keaslian kampoeng bersama peninggalan sejarah, bangunan, kuliner, serta kehidupan sosial dan budaya masyarakatnya. Wilayah ini memiliki berbagai potensi daerah yang menjadi daya tariknya. Potensi Kampoeng Kayutangan dapat dipetakan dalam lima kategori: wisata bangunan bersejarah dan tua, tempat ibadah, kuliner dan kegiatan komersial, penjelajahan sungai, serta acara dan kegiatan. Sumber website [Kajoetangan](https://kajoetanganheritagevillage.com/id) 
 
 Wisata kemana lagi nanti......? 
