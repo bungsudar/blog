@@ -26,4 +26,13 @@ Disetiap sudut gang dari Kampoeng Kajoetangan Malang ini banyak sekali spot foto
 ![Kampoeng Hiratage Kajoetangan Malang](/img/malang/heritage5.jpg)
 Apapbila kalian lapar banyak sekali pedagang atau caffe di dalam kampoeng kajoetangan ini jadi jangan takut apabila kelaparan disana, harga makanan atau minuman disana juga ramah dikantong. 
 ![Kampoeng Hiratage Kajoetangan Malang](/img/malang/heritage6.jpg)
-Karena berkunjung saat momen masih lebaran jadi di Kampoeng Hiratage Kajoetangan ini sangatlah ramai, ditambah lagi tiket masuknya pun terbilang murah. 
+Karena berkunjung saat momen masih lebaran jadi di Kampoeng Hiratage Kajoetangan ini sangatlah ramai, ditambah lagi tiket masuknya pun terbilang murah.
+
+## Sejarah Kampoeng Kajoetangan
+Kajoetangan Kampoeng terletak di Desa Kauman, Kota Malang. Pada masa penjajahan Belanda, nama Kayutangan diabadikan sebagai nama sebuah jalan, “Kajoetanganstraat.” Ada empat teori mengenai asal-usul nama Kayutangan.
+
+Teori pertama adalah bahwa sebelum 1914, ada sebuah tanda lalu lintas kayu berbentuk tangan yang terletak di timur persimpangan Jalan Oro-Oro Dowo (sekarang Jalan B.S. Riadi) dan Jalan Kayutangan (sekarang Jalan Basuki Rahmat). Karena tanda tersebut terbuat dari kayu dan berbentuk tangan, jalan menuju Alun-Alun Kota Malang saat itu dinamakan Kayutangan.
+
+Kajoetangan Kampoeng adalah salah satu lingkungan tertua yang telah berubah menjadi destinasi wisata di pusat Kota Malang. Kampung wisata tematik ini, yang diresmikan oleh Pemerintah Kota Malang pada 22 April 2018, berbasis budaya dan menawarkan keaslian kampoeng bersama peninggalan sejarah, bangunan, kuliner, serta kehidupan sosial dan budaya masyarakatnya. Wilayah ini memiliki berbagai potensi daerah yang menjadi daya tariknya. Potensi Kampoeng Kayutangan dapat dipetakan dalam lima kategori: wisata bangunan bersejarah dan tua, tempat ibadah, kuliner dan kegiatan komersial, penjelajahan sungai, serta acara dan kegiatan. Sumber website ![Kajoetangan](https://kajoetanganheritagevillage.com/id) 
+
+Wisata kemana lagi nanti......? 
