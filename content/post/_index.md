@@ -3,7 +3,7 @@ title: "Blog: Opinion and Notes from Sudar"
 date: 2018-01-25T20:12:09+08:00
 draft: false
 
-type: page
+type: website
 
 image: ""
 description: "Blog: Opinion and Notes from Mas Dar."
