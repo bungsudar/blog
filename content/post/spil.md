@@ -55,6 +55,8 @@ SPIL tidak hanya berperan sebagai penyedia jasa logistik, tetapi juga sebagai pe
 
 Peran ini sangat penting terutama bagi daerah terpencil yang membutuhkan akses logistik untuk mendukung kegiatan ekonomi. Dengan demikian, SPIL turut berkontribusi dalam pemerataan pembangunan di Indonesia. 
 
+---
+
 ## Keunggulan Spil Yang Perlu Tau
 ![SPIL: Shipping & Logistic](/img/lomba/spil/spil3.jpg)
 Kenapa sih SPIL jadi pilihan banyak orang? Yuk, kita bahas keunggulannya!
@@ -111,8 +113,3 @@ Sumber
 5. Informasi sertifikasi dan keunggulan SPIL 
 
 
-
-
----
-
-Kalau kamu mau, aku bisa bantu ubah jadi versi makalah (lengkap dengan pendahuluan–isi–penutup) atau PowerPoint juga 👍
