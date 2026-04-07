@@ -1,5 +1,5 @@
 ---
-title: "SPIL: Shipping & Logistics Terbaik di Indonesia"
+title: "Keunggulan SPIL Logistics yang Bikin Pengiriman Jadi Lebih Mudah"
 slug: spil-logistics
 date: 2026-04-07T10:02:17+08:00
 draft: false
