@@ -10,15 +10,16 @@ tags:
     - Spil
     - Logistics
 
-image: "/img/lomba/spil/cover.png"
-description: "Tempat Ngopi Dengan View Sunset di Ploso Jombang"
+image: "/img/lomba/spil/cover.jpg"
+description: "Apa aja keunggulan spil logistics serta apa itu spil logistics?"
 ---
 
 Dalam dunia bisnis modern, logistik menjadi salah satu faktor penting yang menentukan kelancaran distribusi barang. Di negara kepulauan seperti Indonesia, peran logistik bahkan menjadi semakin krusial karena harus menghubungkan ribuan pulau yang tersebar luas. Di tengah kebutuhan tersebut, Salam Pacific Indonesia Lines (SPIL) hadir sebagai salah satu perusahaan shipping & logistics terbaik di Indonesia.
 
 SPIL merupakan perusahaan pelayaran dan logistik nasional yang telah berdiri sejak tahun 1970 dan terus berkembang hingga saat ini. Awalnya berfokus pada pelayaran kontainer, kini SPIL telah bertransformasi menjadi penyedia layanan logistik terintegrasi yang menggabungkan transportasi laut, darat, pergudangan, dan teknologi digital dalam satu sistem yang efisien. 
 
-Peran Penting SPIL dalam Logistik Indonesia
+## Peran Penting SPIL dalam Logistik Indonesia
+![SPIL: Shipping & Logistic](/img/lomba/spil/spil1.jpg)
 
 Sebagai negara dengan lebih dari 17.000 pulau, Indonesia sangat bergantung pada jalur laut untuk distribusi barang. Bahkan, sebagian besar perdagangan domestik dilakukan melalui transportasi laut. 
 
@@ -55,6 +56,7 @@ SPIL tidak hanya berperan sebagai penyedia jasa logistik, tetapi juga sebagai pe
 Peran ini sangat penting terutama bagi daerah terpencil yang membutuhkan akses logistik untuk mendukung kegiatan ekonomi. Dengan demikian, SPIL turut berkontribusi dalam pemerataan pembangunan di Indonesia. 
 
 ## Keunggulan Spil Yang Perlu Tau
+![SPIL: Shipping & Logistic](/img/lomba/spil/spil3.jpg)
 Kenapa sih SPIL jadi pilihan banyak orang? Yuk, kita bahas keunggulannya!
 
 **1. Jaringannya Luas Banget**
