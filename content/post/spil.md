@@ -10,7 +10,7 @@ tags:
     - Spil
     - Logistics
 
-image: "/img/travis/IMG_20250105_143227.jpg"
+image: "/img/lomba/spil/cover.png"
 description: "Tempat Ngopi Dengan View Sunset di Ploso Jombang"
 ---
 
