@@ -10,7 +10,7 @@ tags:
     - Sugeng
     - Hugo
 
-image: "/img/template/sugeng.png"
+image: "/img/hugo-img/hugo.png"
 description: "Mas sugeng sekarang menggunakan hugo untuk ngeblog dan tidak memakai blogger lagi"
 ---
 
