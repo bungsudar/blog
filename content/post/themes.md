@@ -12,7 +12,7 @@ tags:
     
 type: post
 
-image: "/img/template-blogger/sugeng.png"
+image: "/img/template/sugeng.png"
 description: "Pengalaman membeli template blogger di sugeng.id walaupun mahal tidak ada salahnya di coba dulu."
 ---
 
